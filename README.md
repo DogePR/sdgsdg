@@ -488,8 +488,8 @@ do
         Library.Theme.SaturationCursor = Utility.AddImage("Abyss/Assets/UI/HueCursor.png", "https://raw.githubusercontent.com/mvonwalk/splix-assets/main/Images-cursor.png")
         --
         Library.Theme.Astolfo = Utility.AddImage("Abyss/Assets/UI/Astolfo.png", "https://static6.hentai-img.com/upload/20180530/454/464718/1.png")
-        Library.Theme.Aiko = Utility.AddImage("Abyss/Assets/UI/Aiko.png", "https://i.imgur.com/1gRIdko.png")
-        Library.Theme.Rem = Utility.AddImage("Abyss/Assets/UI/Rem.png", "https://i.imgur.com/ykbRkhJ.png")
+        Library.Theme.Aiko = Utility.AddImage("Abyss/Assets/UI/Aiko.png", "https://1.bp.blogspot.com/--LJim9Zoq3Q/XsNcEUI3OzI/AAAAAAAA5Xs/4qxfHWuQcv8YtNOWedoidHkXKm-YIDEwgCLcBGAsYHQ/w250/High%2BSchool%2BDxD%2B-%2BRias%2BGremory%2BRender%2B329.png")
+        Library.Theme.Rem = Utility.AddImage("Abyss/Assets/UI/Rem.png", "https://allpornsite.net/wp-content/uploads/2020/06/all-porn-site.png")
         Library.Theme.Violet = Utility.AddImage("Abyss/Assets/UI/Violet.png", "https://i.imgur.com/7B56w4a.png")
         Library.Theme.Asuka = Utility.AddImage("Abyss/Assets/UI/Asuka.png", "https://i.imgur.com/3hwztNM.png")
         --
